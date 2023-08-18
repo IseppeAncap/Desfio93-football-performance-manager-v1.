@@ -38,4 +38,33 @@ que também incluirá o total de gols feitos pelo jogador no campeonato.
     .Caso contrário, o programa exibe a quantidade de gols marcados, acompanhada de emojis e tratamento de plural.
     .No final, o programa exibe o total de gols marcados,faz um novo tartamento para o plural usando if 
     dentro do print else utilizando emojis, seguido de uma mensagem de encerramento.
+    
+    
+    Seja Bem Vindo
+::::::::::::::::::::Football Performance Manager ::::::::::::::::::::
+               Gerenciador de Desempenho no Futebol
+------------------------------------------------------------------------
+Explicação: Esse pograma coleta alguns dados do jogador e analiza seu desempenho dentro das partidas,apresenta estas estáticas usa dicionário com estutura principal e uma lista para armazenar o números de Gols.
+
+Nome do Jogador: Luccas                     
+Quantas partidas Luccas Jogou ? 3
+Quantos Gols ele fez na partida 1ª?: 1
+Quantos Gols ele fez na partida 2ª?: 0
+Quantos Gols ele fez na partida 3ª?: 4
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+                   .O Campo nome têm o valor: Luccas .
+                   .O Campo partidas têm o valor: 3 .
+                   .O Campo gols têm o valor: [1, 0, 4] .
+                   .O Campo total têm o valor: 5 .
+-=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=-
+O Jogador Luccas jogou 3 partidas
+
+                  => Na partida 1ª Luccas marcou 🥅  ⚽ 1 Gol
+                  => Na partida 2ª Luccas não marcou nenhum! 😞😞
+                  => Na partida 3ª Luccas marcou 🥅  ⚽ ⚽ ⚽ ⚽ 4 GOLS
+-=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=--=-=-
+O Jogador Luccas marcou um total 5 Gols!
+🥅  ⚽  ⚽  ⚽  ⚽  ⚽ 
+
+Fim do Programa. Obrigado pro utiliza nosso Serviços!!
 '''
