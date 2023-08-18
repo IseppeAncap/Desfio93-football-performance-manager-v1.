@@ -37,9 +37,9 @@ que também incluirá o total de gols feitos pelo jogador no campeonato.
     .Se a quantidade de gols for zero, o programa exibe uma mensagem indicando que nenhum gol foi marcado.
     .Caso contrário, o programa exibe a quantidade de gols marcados, acompanhada de emojis e tratamento de plural.
     .No final, o programa exibe o total de gols marcados,faz um novo tartamento para o plural usando if 
-    dentro do print else utilizando emojis, seguido de uma mensagem de encerramento.
+        dentro do print else utilizando emojis, seguido de uma mensagem de encerramento.
     
-    
+## Exemplo atual da exibição     
     Seja Bem Vindo
 ::::::::::::::::::::Football Performance Manager ::::::::::::::::::::
                Gerenciador de Desempenho no Futebol
